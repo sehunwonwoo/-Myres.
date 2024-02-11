@@ -46,13 +46,15 @@
 如果使用\*表示无序列表，如果是1.2.3.4 均为有序列表
 
 * 物理学
- * 粒子物理
- * 原子核物理
- * 凝聚态物理
+   * 粒子物理
+   * 原子核物理
+   * 凝聚态物理
+
 * 计算机科学
- * 套接字
- * DNS
- * 内网搭建
+   * 套接字
+   * DNS
+   * 内网搭建
+      * 网络通信
 
 1. 物理学
    1. 粒子物理
@@ -61,3 +63,37 @@
 * FPS第一人称
    1. pubg
    2. apex
+
+##代码插入
+插入不同的代码 要声明代码块
+```c
+	#include<stdio.h>
+	int main()
+	{
+		printf("hello c"\n");
+		return 0;
+	}
+
+```
+
+```cpp
+	#include<iostream>
+	using namespace std;
+
+        int main()
+        {
+                cout<<hello<<endl;
+                return 0;
+        }
+
+```
+
+```python
+
+```
+
+```bash
+	git add files.c
+	git rm files.c
+
+```
