@@ -102,4 +102,14 @@
 [BiliBili弹幕网](https://www.bilibili.com "点击进入Bzhan")
 
 ## 插入图片
+如果需要在github上显示图片数据，需要网络图片地址，将图片上传到某个网站生成图片的URL，而后github才可以访问加载这张图片
+
 ![截屏](C://Users//小赵的戴尔//Desktop//wonwoo.jpg "悬停标题")
+
+## 表格数据
+
+姓名|排行|技能
+--|:--|:--|
+wonwoo|6|rap
+dk|10|vocal
+hoshi|5|dance
